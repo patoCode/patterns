@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=RuleManager
+comment1.params=name
+comment1.target=RuleManager(java.lang.String)
+comment2.params=email\ folders
+comment2.target=rules.SimpleCondition\ evaluar(Email,\ java.util.List)
+numComments=3
